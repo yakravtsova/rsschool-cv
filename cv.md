@@ -23,8 +23,6 @@ I graduated from a web development course at Yandex Practicum. Apparently my ski
 
 ### Languages and tools:
 
-### Languages and tools:
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width=40px alt="Javascript" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width=40px  alt="Typescript" />
@@ -36,3 +34,32 @@ I graduated from a web development course at Yandex Practicum. Apparently my ski
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width=40px alt="Github" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width=40px alt="Bootstrap" />
 </div>
+
+### Code example:
+
+```typescript
+const bfs = (graph: object): string[] => {
+  if (typeof graph !== 'object' || Array.isArray(graph) || graph === null) {
+    throw new Error('INVALID_ARGUMENT');
+  }
+  let res: string[] = [];
+  let nodeList: string[] = [];
+  let keys: string[] = Object.keys(graph);
+  nodeList.push(keys[0]);
+  res.push(keys[0]);
+  if (graph[keys[0]].length !== 0) {
+    keys = keys.filter((key) => key !== keys[0]);
+    let arr: string[] = [];
+    while (keys.length > 0) {
+      arr = [];
+      nodeList.forEach((el) => {
+        arr = arr.concat(graph[el]);
+      });
+      res = res.concat(arr);
+      nodeList = [...arr];
+      keys = keys.filter((key) => !arr.includes(key));
+    }
+  }
+  return res;
+};
+```
