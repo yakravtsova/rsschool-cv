@@ -63,3 +63,13 @@ const bfs = (graph: object): string[] => {
   return res;
 };
 ```
+
+### Work experience:
+
+* :clipboard: [Jira todo list](https://github.com/yakravtsova/todo-list-jira). An application that generates a list of tasks in jira projects.
+  Stack: Node.js, Atlassian connect express, React, Atlaskit.
+* :partly_sunny: [Weather widget](https://github.com/yakravtsova/weather-widget). Weather widget for website. Stack: Vue.js, Vuex.
+* :money_with_wings: [The landing page for saleing of company's services](https://github.com/yakravtsova/nda-landing-page). Stack: HTML, SCSS, Javascript.
+* :robot: :film_projector: [The backend of the service where you can find movies on demand and save them in your personal account](https://github.com/yakravtsova/movies-explorer-api). Stack: Node.js, express, MongoDB.
+* :computer: :film_projector: [The frontend of the service where you can find movies on demand and save them in your personal account](https://github.com/yakravtsova/movies-explorer-frontend). Stack: React.
+
