@@ -1,21 +1,13 @@
-<div>
-<img src="./images/Margarita_Kravtsova_small.jpg" />
+<img src="./images/Margarita_Kravtsova_small.jpg" width=270px align=left />
 
 # Margarita Kravtsova
 
 ### :link: Contact me:
-[![Telegram](https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram)](https://t.me/yakravtsova)
-[![Gmail](https://img.shields.io/badge/-margaritaselez@gmail.com-141130?style=for-the-badge&logo=Gmail)](mailto:margaritaselez@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-141130?style=for-the-badge&logo=WhatsApp)](https://wa.me/79119758200)
-[![Facebook](https://img.shields.io/badge/-Facebook-141130?style=for-the-badge&logo=Facebook)](https://www.facebook.com/margus.nk)
-</div>
-# Margarita Kravtsova
-
-### :link: Contact me:
-[![Telegram](https://img.shields.io/badge/-Telegram-141130?style=for-the-badge&logo=Telegram)](https://t.me/yakravtsova)
-[![Gmail](https://img.shields.io/badge/-margaritaselez@gmail.com-141130?style=for-the-badge&logo=Gmail)](mailto:margaritaselez@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-141130?style=for-the-badge&logo=WhatsApp)](https://wa.me/79119758200)
-[![Facebook](https://img.shields.io/badge/-Facebook-141130?style=for-the-badge&logo=Facebook)](https://www.facebook.com/margus.nk)
+      
+[![Discord](https://img.shields.io/badge/-Rita%20(@yakravtsova)-141130?style=flat-square&logo=Discord)](https://discordapp.com/users/1075836895738728448)
+[![Telegram](https://img.shields.io/badge/-@yakravtsova-141130?style=flat-square&logo=Telegram)](https://t.me/yakravtsova)
+[![Gmail](https://img.shields.io/badge/-margaritaselez@gmail.com-141130?style=flat-square&logo=Gmail)](mailto:margaritaselez@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-+79119758200-141130?style=flat-square&logo=WhatsApp)](https://wa.me/79119758200)
 
 ### About me:
 
