@@ -20,3 +20,19 @@ I graduated from a web development course at Yandex Practicum. Apparently my ski
 + :woman_juggling: I study new technologies
 + :computer: I try to write clean code
 + :weight_lifting_woman: I practice a lot
+
+### Languages and tools:
+
+### Languages and tools:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width=40px alt="Javascript" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width=40px  alt="Typescript" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=40px alt="React" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width=40px alt="Redux" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=40px alt="NodeJS" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width=40px alt="express" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width=40px  alt="Vue" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width=40px alt="Github" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width=40px alt="Bootstrap" />
+</div>
